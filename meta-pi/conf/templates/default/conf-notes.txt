@@ -1,0 +1,2 @@
+Common tasks to build:
+    Dev Build : bitbake pi-test

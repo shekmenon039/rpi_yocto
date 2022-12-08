@@ -1,0 +1,8 @@
+!build/
+build/*
+!build/conf/
+build/conf/*
+!build/conf/site.conf
+!build/conf/templateconf.cfg
+
+vscode-bitbake-build/

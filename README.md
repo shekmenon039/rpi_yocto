@@ -1,2 +1,3 @@
 # rpi_yocto
-Yocto for Raspberry PI
+
+Test Yocto package for Raspberry PI
